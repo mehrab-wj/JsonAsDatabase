@@ -1,4 +1,7 @@
 <?php
+/*
+    * Github: https://github.com/mehrab-wj/JsonAsDatabase
+*/
 class JsonDatabase {
     private $path;
     private $autosave = true;
